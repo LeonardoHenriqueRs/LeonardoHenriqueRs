@@ -16,8 +16,6 @@ Tenho interesse em desenvolvimento de software, automação, análise de dados e
   </a>
 </div>
 
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <div align="left">
