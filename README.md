@@ -7,11 +7,11 @@ Me chamo Leonardo Henrique, tenho 23 anos e sou do Paraná, Brasil. Atualmente c
 Tenho interesse em desenvolvimento de software, automação, análise de dados e aprendizado de máquina. Busco constantemente aprimorar meus conhecimentos através de projetos práticos, explorando soluções que unem programação, bancos de dados e inteligência artificial.
 
 ###
-
 <div align="center">
-  <img src="https://www.linkedin.com/in/leonardo-henrique-396bab415/" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/leonardo-henrique-396bab415/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
 </div>
-
 ###
 
 ---
