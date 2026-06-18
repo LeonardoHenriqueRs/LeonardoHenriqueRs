@@ -12,10 +12,7 @@ Tenho interesse em desenvolvimento de software, automação, análise de dados e
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
-###
-
 ---
-
 ### 🤖 Linguagens e Tecnologias
 
 <div align="left">
@@ -31,9 +28,5 @@ Tenho interesse em desenvolvimento de software, automação, análise de dados e
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
-
-###
-
-<br/>
 <br/>
 
